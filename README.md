@@ -1,4 +1,6 @@
 ### Hi there am Virgile Ndayambaje 👋
+ ![ git2](https://github.com/Virgile1k/Virgile1k/assets/97120342/29fdf4bf-17ab-48d5-a657-f424ae4499a8)
+
 
 <!--
 **Virgile1k/Virgile1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
