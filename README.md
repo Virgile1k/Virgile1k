@@ -1,5 +1,5 @@
 ### Hi there am Virgile Ndayambaje 👋
- ![ git2](https://github.com/Virgile1k/Virgile1k/assets/97120342/29fdf4bf-17ab-48d5-a657-f424ae4499a8)
+ ![Virgile_Profile](https://github.com/user-attachments/assets/674c66a4-4995-44a0-9aca-090999cd1881)
 
 
 <!--
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...![Virgile_Profile](https://github.com/user-attachments/assets/4670a73e-cfef-45a1-b5ea-f9f4de22234a)
+
 -->
