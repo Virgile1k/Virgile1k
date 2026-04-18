@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Virgile Ndayambaje</h1>
 
 <p align="center">
-Software Engineer • Backend Developer • DevOps Enthusiast
+Software Engineer • Backend Developer • DevOps Engineer
 </p>
 
 <p align="center">
